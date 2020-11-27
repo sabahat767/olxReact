@@ -1,0 +1,79 @@
+
+/* .inputSearch{
+  width: 200px;
+}*/
+.search{
+  width: 400px;
+  padding: 4px;
+  outline:  black;
+  outline-style:  solid;
+  outline-width: 2px;
+} 
+.login{
+  color: black;
+  font-weight: 500;
+  font-size: larger;
+  margin-right: 10px;
+  text-decoration: underline black;
+  
+
+}
+.login:hover{
+  text-decoration: none ;
+  color: black;
+  cursor: pointer;
+}
+
+#basic-nav-dropdown
+{
+  color: black;
+  font-size: medium;
+  font-weight: 600;
+  width: 100%;
+}
+#basic-navbar-nav{
+  width: 100%;
+}
+.fa-heart-o{
+  color: black;
+  font-size: 25px !important;
+  
+}
+.bordercard{
+  border-left: 5px solid #FFCC00;
+}
+.bgCrousel{
+  background-color:#d3d3d3;
+}
+
+footer .main-footer{	padding: 20px 0;	background: lightgray; }
+footer ul{	padding-left: 0;	list-style: none; ;}
+
+/* Copy Right Footer */
+.footer-copyright {	background: #222;	padding: 5px 0;}
+
+
+/* Footer 4 */
+.footer- .logo {    display: inline-block;}
+
+
+
+.typo-light h1, 
+.typo-light h2, 
+.typo-light h3, 
+.typo-light h4, 
+.typo-light h5, 
+.typo-light h6,
+.typo-light div,
+.typo-light span,
+
+.typo-light small{	color: black;}
+.modalDiv{
+  border: 2px solid black;
+}
+.modalimg:active{
+  border: 1px solid black;
+}
+.font{
+  font-size: 12px;
+}
